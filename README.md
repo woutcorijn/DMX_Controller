@@ -8,7 +8,7 @@ Controlled by an Arduino using the DmxSimple library by <a href="https://github.
 
 <h1>Schematic</h1>
 <img src="https://raw.githubusercontent.com/woutcorijn/DMX_Controller/main/Images/Schematic.jpg?raw=true" width="50%">
-<h1>Parts</h1>
+<h2>Parts</h2>
 <ul>
 <li>Arduino Uno</li>
 <li>Common anode 7 segment display</li> 
@@ -17,9 +17,11 @@ Controlled by an Arduino using the DmxSimple library by <a href="https://github.
 </ul>
 
 <h1>Fixtures</h1>
-<img src="https://raw.githubusercontent.com/woutcorijn/DMX_Controller/main/Images/Light_plot.png?raw=true" width="50%">
 <ul>
 <li>6x ShowTec LED Pinspot DMX V2</li>
 <li>2x American DJ REVO Scan led</li>
 <li>1x ShowTec SlideBar</li>
 </ul>
+<h2>Light Plot</h2>
+<img src="https://raw.githubusercontent.com/woutcorijn/DMX_Controller/main/Images/Light_plot.png?raw=true" width="50%">
+
