@@ -8,10 +8,15 @@ Controlled by an Arduino using the DmxSimple library by <a href="https://github.
 
 <h1>Schematic</h1>
 <img src="https://raw.githubusercontent.com/woutcorijn/DMX_Controller/main/Images/Schematic.jpg?raw=true" width="50%">
-<h2>Parts</h2>
+<h1>Parts</h1>
 <ul>
 <li>Arduino Uno</li>
 <li>Common anode 7 segment display</li> 
 <li>Female XLR connector</li>
 <li>RS485 module</li>
 </ul>
+
+<h1>Fixtures</h1>
+6x ShowTec LED Pinspot DMX V2
+2x American DJ REVO Scan led
+1x ShowTec SlideBar
