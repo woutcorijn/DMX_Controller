@@ -17,6 +17,8 @@ Controlled by an Arduino using the DmxSimple library by <a href="https://github.
 </ul>
 
 <h1>Fixtures</h1>
-6x ShowTec LED Pinspot DMX V2
-2x American DJ REVO Scan led
-1x ShowTec SlideBar
+<ul>
+<li>6x ShowTec LED Pinspot DMX V2</li>
+<li>2x American DJ REVO Scan led</li>
+<li>1x ShowTec SlideBar</li>
+</ul>
