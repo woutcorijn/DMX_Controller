@@ -1,5 +1,5 @@
 # DMX_Controller
 
 DMX Light controller with one knob and a 7 segment display.<br>
-Controlled by a Arduino and the DmxSimple library by Paul Stoffregen.
+Controlled by a Arduino using the DmxSimple library by Paul Stoffregen.<br>
 https://github.com/PaulStoffregen/DmxSimple
