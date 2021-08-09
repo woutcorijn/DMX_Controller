@@ -1,7 +1,7 @@
 # DMX_Controller
 
 DMX Light controller with one knob and a 7 segment display. The knob selects a pre-programmed light mode.<br>
-Controlled by an Arduino using the DmxSimple library by <a href="https://github.com/PaulStoffregen/DmxSimple">Paul Stoffregen</a> and the DMX scematic form <a href="https://github.com/GadgetReboot/Arduino/tree/master/Uno/DMX512">GadgetReboot</a>.<br>
+Controlled by an Arduino using the DmxSimple library by <a href="https://github.com/PaulStoffregen/DmxSimple">Paul Stoffregen</a> and the DMX schematic form <a href="https://github.com/GadgetReboot/Arduino/tree/master/Uno/DMX512">GadgetReboot</a>.<br>
 
 <img src="https://raw.githubusercontent.com/woutcorijn/DMX_Controller/main/Images/Picture1.jpg" width="50%">
 <img src="https://raw.githubusercontent.com/woutcorijn/DMX_Controller/main/Images/Picture2.jpg" width="50%">
